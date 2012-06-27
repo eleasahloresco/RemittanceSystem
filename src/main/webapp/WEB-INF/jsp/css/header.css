@@ -1,0 +1,14 @@
+.header{
+border: 1px solid #EE7621;
+background-color: #EE7621;
+height: 100px;
+margin: 0px auto;
+width: 750px;
+text-align: center;
+color: white;
+}
+
+.headerContent{
+padding: 1px;
+}
+

@@ -1,0 +1,16 @@
+html, body {
+margin: 0px;
+padding: 0px;
+height: 100%;
+width: 100%;
+}
+
+a:link, a:active, a:visited{
+text-decoration: none;
+color: white
+}
+
+a:hover{
+text-decoration:underline;
+}
+
