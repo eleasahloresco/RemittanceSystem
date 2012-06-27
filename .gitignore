@@ -2,3 +2,4 @@
 .classpath
 .project
 target
+src/main/webapp/META-INF
